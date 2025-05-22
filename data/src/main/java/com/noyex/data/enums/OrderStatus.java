@@ -1,0 +1,5 @@
+package com.noyex.data.enums;
+
+public enum OrderStatus {
+    NIE_ZAAKCEPTOWANE, ZAAKCEPTOWANE, W_TRAKCIE_PRZYGOTOWANIA, W_DRODZE, ZREALIZOWANE, ANULOWANE;
+}
