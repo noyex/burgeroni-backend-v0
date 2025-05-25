@@ -1,9 +1,9 @@
 package com.noyex.service.service;
 
-import com.noyex.client.geocoder.ICoordinatesClient;
-import com.noyex.client.geocoder.contract.CoordinatesDto;
 import com.noyex.data.dtos.OrderDto;
 import com.noyex.data.dtos.PostalCodeDto;
+import com.noyex.service.client.geocoder.ICoordinatesClient;
+import com.noyex.service.client.geocoder.contract.CoordinatesDto;
 import org.springframework.stereotype.Service;
 import org.locationtech.jts.geom.*;
 import org.springframework.transaction.annotation.Transactional;

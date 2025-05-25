@@ -1,6 +1,6 @@
 package com.noyex.service.exceptions;
 
-import com.noyex.client.exception.FailedToFetchAddressForCoordinatesException;
+import com.noyex.service.client.exception.FailedToFetchAddressForCoordinatesException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

@@ -1,4 +1,4 @@
-package com.noyex.client.geocoder.contract;
+package com.noyex.service.client.geocoder.contract;
 
 public class CoordinatesDto {
 

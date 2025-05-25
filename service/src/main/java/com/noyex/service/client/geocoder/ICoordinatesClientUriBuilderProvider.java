@@ -1,4 +1,4 @@
-package com.noyex.client.geocoder;
+package com.noyex.service.client.geocoder;
 
 import org.springframework.web.util.UriComponentsBuilder;
 

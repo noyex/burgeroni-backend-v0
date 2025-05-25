@@ -1,8 +1,8 @@
-package com.noyex.client.geocoder;
+package com.noyex.service.client.geocoder;
 
-import com.noyex.client.exception.FailedToFetchAddressForCoordinatesException;
-import com.noyex.client.geocoder.contract.CoordinatesDto;
 import com.noyex.data.dtos.OrderDto;
+import com.noyex.service.client.exception.FailedToFetchAddressForCoordinatesException;
+import com.noyex.service.client.geocoder.contract.CoordinatesDto;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 

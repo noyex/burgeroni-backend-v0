@@ -1,8 +1,6 @@
 package com.noyex.service;
 
-import com.noyex.client.geocoder.CoordinatesClient;
-import com.noyex.client.geocoder.CoordinatesClientUriBuilderProvider;
-import com.noyex.client.geocoder.ICoordinatesClient;
+
 import com.noyex.service.service.DeliveryZoneService;
 import com.noyex.service.service.IDeliveryZoneService;
 import org.springframework.boot.CommandLineRunner;
